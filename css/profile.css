@@ -1,0 +1,25 @@
+
+
+.headerImage{ width:20px ;
+ height:20;
+ margin-top: -5px;
+ }
+
+.Textcenter{
+text-align:center;
+}
+
+.mofColor{color: #573c4d ;}
+.pinkColor{color: #f18c8e ;}
+.graycolor{color:#c5b6ba;}
+
+._margin{
+margin-left:80px;
+}
+
+.horizontal {
+  display: inline ;
+}
+ .fake-input { position: relative; width:490px; }
+.fake-input input { border-color:#573c4d  ; background-color:#fff; display:block; width: 100%; box-sizing: border-box }
+.fake-input img { position: absolute; top: 22px; left: 16px }

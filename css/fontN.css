@@ -1,0 +1,71 @@
+/* start about us */
+
+.font{
+font-family:Adobe Arabic;
+font-size:20pt;
+}
+
+
+ #hh1{
+  font-family:Adobe Arabic;
+   color:#573c4d;
+   margin-left:7.5in;
+ }
+
+   #hh2{
+   color:#573c4d;
+   }
+
+.about-us {
+  padding-right:9in;
+  color:#573c4d;
+  font-size:40pt;
+}
+
+.men-runwa{
+margin-left:10in;
+color:#f18c8e;
+}
+
+.discription-about-us{
+color:#c5b6ba;
+font-size:20pt;
+text-align:right;
+}
+
+/* end about us */
+/* start product */
+#hn3{
+font-size:40pt;
+color:#c5b6ba;
+margin-right:7.5in;
+padding-top:4.5in;
+}
+#pn1{
+font-size:10pt;
+color:#f18c8e;
+}
+
+#pn2{
+font-size:10pt;
+color:#573c4d;
+}
+
+#pn3{
+margin-left:2.5in;
+font-size:20pt;
+color:#573c4d;
+
+}
+.margenn-below-book{
+text-indent:10%;
+}
+
+.hn4{
+color:#f18c8e;
+font-size:10pt;
+}
+
+p{
+font-size:10pt;
+}

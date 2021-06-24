@@ -1,0 +1,107 @@
+#contactus{
+font-size:30pt;
+color:#c5b6ba;
+margin-right:7.5in;
+padding-top:4.5in;
+}
+
+#con1{
+font-size:17pt;
+color:#f18c8e;
+}
+
+#con2{
+font-size:17pt;
+color:#573c4d;
+}
+.center{
+text-align: center;
+padding-left: 280px;
+
+  }
+
+.center_form{
+  text-align: right;
+}
+
+  .social_media-center{
+      text-align: center;
+      background-color: #f7f5f6;
+
+   }
+   .social_media-user{
+     margin-left: 20px;
+
+    }
+   .social_media_margen  {
+     margin-left: 75px;
+    }
+    @import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+
+      .social_media_icon :hover  {
+     	width: 20px;
+    	height: 20px;
+      background-color: #FFF;
+    	border-radius: 100%;
+    	padding: 3px;
+
+     }
+     .social_media{
+     	margin-left: 15px;
+     	margin-bottom: 30px;
+
+    }
+
+    .tial{
+    font-family: 'Droid Arabic Naskh', serif;
+
+    	font-size: 10pt;
+    	line-height: 2;
+     	list-style: none;
+    	padding:10px  ;
+    	color: #FFFFFF
+    }
+
+    .a_tial
+    {
+    	text-decoration: none;
+    	color: #FFF;
+    }
+
+    .footer {
+       left: 0;
+       bottom: 0;
+       width: 100%;
+       background-color: #573c4d;
+       color: white;
+       text-align: center;
+    }
+    .hero-wrap.hero-wrap-2 .overlay {
+         background: #f18c8e;
+         width: 100%;
+         opacity: .3;
+         height: 0px; }
+
+   .headerImage{ width:20px ;
+    height:20;
+    margin-top: -5px;
+    }
+
+   .Textcenter{
+   text-align:center;
+   }
+
+   .mofColor{color: #573c4d ;}
+   .pinkColor{color: #f18c8e ;}
+   .graycolor{color:#c5b6ba;}
+
+   ._margin{
+   margin-left:80px;
+   }
+
+   .horizontal {
+     display: inline ;
+   }
+    .fake-input { position: relative; width:490px; }
+   .fake-input input { border-color:#573c4d  ; background-color:#fff; display:block; width: 100%; box-sizing: border-box }
+   .fake-input img { position: absolute; top: 22px; left: 16px }
